@@ -35,7 +35,7 @@ const App = () => {
             onClick={exportCSV}
             style={{ padding: "10px 15px", fontSize: "16px" }}
           >
-            Download CSV
+            View Stats
           </button>
         </div>
         <Routes>
